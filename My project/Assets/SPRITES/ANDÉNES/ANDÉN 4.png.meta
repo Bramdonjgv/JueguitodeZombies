@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: be6998a82a31e644ea1c94c7024b8606
+guid: ca335ea18a7850242b2777d5154fa6f5
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 4052707016837768992
-    second: PISO FUTURISTA 1_0
+      213: -2332041978117281802
+    second: "AND\xC9N 4_0"
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -51,7 +51,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 200
+  spritePixelsToUnits: 100
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -113,13 +113,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: PISO FUTURISTA 1_0
+      name: "AND\xC9N 4_0"
       rect:
         serializedVersion: 2
-        x: 116
-        y: 111
-        width: 800
-        height: 801
+        x: 146
+        y: 155
+        width: 745
+        height: 713
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -128,8 +128,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 02729554f8b1e3830800000000000000
-      internalID: 4052707016837768992
+      spriteID: 6f725053d2ce2afd0800000000000000
+      internalID: -2332041978117281802
       vertices: []
       indices: 
       edges: []
@@ -138,7 +138,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 783e6b22b6a805b4da5b9de33cd6dee8
+    spriteID: fba841d0fbc4bb14ba26241afba4fd30
     internalID: 0
     vertices: []
     indices: 
@@ -148,7 +148,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      PISO FUTURISTA 1_0: 4052707016837768992
+      "AND\xC9N 4_0": -2332041978117281802
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
